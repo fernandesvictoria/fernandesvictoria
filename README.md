@@ -1,2 +1,3 @@
-## Oii eu sou a Vic
+# 👋 Olá, eu sou a Victoria!
 
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
